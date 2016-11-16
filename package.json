@@ -1,0 +1,19 @@
+{
+  "name": "rmf",
+  "version": "1.0.4",
+  "description": "Remodel framework (RMF)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhadam/remodel.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lhadam/remodel/issues"
+  },
+  "homepage": "https://github.com/lhadam/remodel#readme"
+}

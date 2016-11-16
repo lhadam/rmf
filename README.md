@@ -1,2 +1,1 @@
-# rmf
-Remodel Framework
+# **R**e**m**odel **F**ramework (RMF)
